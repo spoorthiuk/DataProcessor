@@ -1,6 +1,7 @@
 import React from "react";
 import ReacDOM from "react-dom";
 import "../src/App.css"
+import "../src/HomePage.css"
 import "../src/assets/dataProcessor.svg"
 
 function NavBar(){

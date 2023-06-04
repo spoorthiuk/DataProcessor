@@ -1,0 +1,73 @@
+.homePageCard1{
+
+    display: flex;
+    align-items: center;
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    left: 150px;
+    top: 300px;
+    right: 0px;
+    background-color: #ffffff;
+    padding-top: 0%;
+    border-radius: 15px;
+    box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 12px 0 15px -4px rgba(62, 64, 66, 0.8), -12px 0 15px -4px rgba(62, 64, 66, 0.8);
+  
+  }
+
+  .homePageCard1 > img{
+
+    display: flex;
+    align-items: center;
+    left:10px;
+    height: 300px;
+    width: 300px;
+    top:0px;
+
+  }
+  
+  .homePageCard2{
+  
+    display: flex;
+    align-items: center;
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    left: 950px;
+    top: 300px;
+    right: 0px;
+    background-color: #ffffff;
+    padding-top: 0%;
+    border-radius: 15px;
+    box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 12px 0 15px -4px rgba(62, 64, 66, 0.8), -12px 0 15px -4px rgba(62, 64, 66, 0.8);
+  
+  }
+
+  .homePageCard2 > img{
+
+    display: flex;
+    position: relative;
+    align-items: center;
+    left:50px;
+    height: 300px;
+    width: 300px;
+    top:0px;
+
+  }
+
+ 
+  
+  .homePageHeader{
+  
+    font-family: 'Inter';
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 19px;
+    margin-bottom: 375px;
+    
+    color: #1f1f20;
+    
+  
+  }
